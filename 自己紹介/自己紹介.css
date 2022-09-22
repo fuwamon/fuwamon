@@ -1,0 +1,44 @@
+@charset "utf-8";
+body{
+    margin: 0px;
+    font-family: 'Reggae One', cursive;
+}
+.ヘッダー{
+    background-color: pink;
+    height: 100px;
+}
+.ヘッダーロゴ{
+    float: left;
+    color: #444;
+    font-size: 30px;
+    margin-left: 40px;
+}
+.メイン{
+    background-color: beige;
+    height: 650px;
+}
+.メインロゴ{
+    margin: 0px;
+    padding: 20px 170px;
+    font-size: 18px;
+}
+.メインロゴ1{
+    padding-left: 170px;
+    color: rgb(151, 252, 0);
+    font-size: 30px;
+}
+.under{
+    background-color:rgb(206, 234, 149);
+    height:100px;
+}
+.プログラム{
+    margin: 0px;
+    padding-top: 30px;
+    font-size: 20px;
+    float: left;
+    color: #444;
+    text-decoration: none;
+}
+#プログラム1{
+    color: rgb(91, 133, 250);
+}
